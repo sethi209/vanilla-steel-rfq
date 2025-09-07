@@ -11,8 +11,8 @@ It is designed to clean, enrich, and analyze steel RFQs, and produce a **top-3 s
 1. **Clone the repository**
 
 ```bash
-git clone <repository_url>
-cd <repository_name>
+git clone https://github.com/sethi209/vanilla-steel-rfq.git
+cd vanilla-steel-rfq
 ```
 
 2. **Create a Python virtual environment**
