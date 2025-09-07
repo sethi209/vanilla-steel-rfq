@@ -43,7 +43,7 @@ pip install -r requirements.txt
     - `outputs/inventory_dataset.xlsx`
 - **Run**:
 ```
-python `scenario_a_run.py`
+python scenario_a_run.py
 ```
 - **Notes**:
     - Deduplicates based on key columns: grade, finish, thickness, width, article ID, description, and source.
